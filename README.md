@@ -1,1 +1,1 @@
-# mitchellwiebe.github.io
+# Initial steps towards a lab website
